@@ -1,0 +1,4 @@
+trade_id,timestamp,contract,action,price,volume,offset,commission,fee,quote,pr_long,pr_short,ta_long,ta_short,eg_long,eg_short,flag
+0b01b648-df3c-4266-b0f3-f7c79eda206e,2025-05-16 13:37:12.332136,PR509,SELL,6038.0,2,OPEN,1.8462,450.6010000000001,6040,0,10,20,0,4,0,0
+0b01b648-df3c-4266-b0f3-f7c79eda206e,2025-05-16 13:37:12.356797,TA509,BUY,4772.0,5,OPEN,15.0,450.6010000000001,4770,0,10,25,0,4,0,0
+0b01b648-df3c-4266-b0f3-f7c79eda206e,2025-05-16 13:37:12.433316,eg2509,BUY,4477.0,1,OPEN,4.0,450.6010000000001,4476,0,10,25,0,5,0,0
