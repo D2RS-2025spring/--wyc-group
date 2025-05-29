@@ -1,0 +1,3 @@
+trade_id,timestamp,direction,offset,fee_target,fee_actually,slippage,commission,pr_quote,pr_price,pr_volume,ta_quote,ta_price,ta_volume,eg_quote,eg_price,eg_volume,flag,pr_left,ta_left,eg_left,profit,marked_trade_id
+48ee0fab-e05a-4dee-a935-d8485a8322ed,2025-05-16 14:25:51.903806,SELL,OPEN,412.72,410.0,2.72,744.62,6088,6088.0,70,4864,4866.0,180,4498,4501.0,35,1,0,0,0,-55,
+9819739f-e589-4040-8ac4-b3940c54c13a,2025-05-16 14:40:01.394940,BUY,CLOSE,396.67,403.11,6.44,744.62,6074,6076.0,70,4866,4862.0,180,4499,4496.0,35,1,0,0,0,-55,
