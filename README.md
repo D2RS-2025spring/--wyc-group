@@ -31,7 +31,12 @@ prfee/
 
 
 ## 依赖安装
+
 ```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate  # Windows
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
